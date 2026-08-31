@@ -330,8 +330,7 @@ export const INTEGRATIONS: readonly IntegrationEntry[] = [
     slug: "supermemory",
     name: "Supermemory",
     kind: "memory",
-    tagline:
-      "Give your agents long-term memory, user profiles, and SuperRAG across conversations and context.",
+    tagline: "Give your agents long-term memory, user profiles, and SuperRAG across conversations and context.",
     surfaces: { scaffoldable: false, registry: true, gallery: true },
   },
   {
